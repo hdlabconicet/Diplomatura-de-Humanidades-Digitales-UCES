@@ -801,7 +801,7 @@
 
 	#header
 	{
-		position: relative;
+		position: absolute;
 		background: url(../images/Logo_Universidad_UCES.png) no-repeat bottom center;
 		background-attachment: fixed;
 		background-size: cover;
