@@ -1,7 +1,7 @@
 name: Simple
-description: Plantilla para sitios estáticos simples
+description: Diplomatura de Humanidades Digitales de la UCES
 # paginate: 10
-baseurl: "/simple_template"
+baseurl: "/Diplomatura-de-Humanidades-Digitales-UCES"
 # url: "" 
 # the base hostname & protocol for your site, e.g. http://example.com
 
