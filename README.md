@@ -1,1 +1,1 @@
-# simple_template
+# Diplomatura-de-Humanidades-Digitales-UCES

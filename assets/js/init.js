@@ -5,7 +5,7 @@
 */
 
 skel.init({
-	prefix: '/simple_template/assets/css/style',
+	prefix: '/Diplomatura-de-Humanidades-Digitales-UCES/assets/css/style',
 	resetCSS: true,
 	boxModel: 'border',
 	grid: {
